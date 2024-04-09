@@ -5,17 +5,18 @@ title: About Me
 
 # About Me
 
-Hi, 
+Hello,
 
-Thanks for taking the time to learn about me. I created this site because I have more to say about my career interests, passions and goals than a single page resume can provide.
+Thank you for taking the time to explore my portfolio. I've created this space because I believe there's more to convey about my career interests, passions, and aspirations than what fits on a single-page resume.
 
-I believe a personal website is a more efficient and useful method of describing what drives me than the conventional "cover letter".
+Rather than the traditional "cover letter," I find that a personal website offers a more comprehensive and effective platform to articulate what truly motivates me.
 
-By exploring the pages on this site I hope to give more extensive context or my goals and motivations. Personally, I am driven to find roles which feature the following attributes “present continuous opportunities for growth” and maximize [“the flow state”](https://en.wikipedia.org/wiki/Flow_(psychology)). These two attributes are highly interdependent.
+Through the various pages of this site, my aim is to provide deeper insights into my goals and motivations. Personally, I'm driven by the pursuit of roles that offer continuous opportunities for growth and facilitate the experience of "flow" – a state of optimal engagement and productivity. These two aspects are deeply intertwined.
 
-The first attribute is of course extremely broad, and one might argue that someone should be able to find such opportunities in any career. I vehemently disagree. In fact, the very structure of a typical “office” job is designed to bring employees “up to speed”. Once employees are equipped with the proper tools to perform their specialized role, allocating time to explore and learn is discouraged in favor of maximal productivity in the present. 
+While the notion of continuous growth may seem universal, I strongly believe that not all roles inherently foster such development. In many conventional office environments, the emphasis is primarily on getting employees up to speed and maximizing present productivity, often at the expense of exploration and learning. Roles structured in this manner don't genuinely promote meaningful growth opportunities.
 
-A role that strictly adheres to the above practice would not be one which encourages true opportunities for growth.
+On the other hand, the concept of "flow" is highly individualized. Through my own experiences, particularly in programming tasks, I've discovered that the optimal balance between challenge and skill level inherent in such tasks often leads to a state of flow. Tasks like troubleshooting a circuit for a specific output voltage, however, tend to lack this engaging element as they involve mere repetition of known actions.
 
-The second attribute is highly personalized. In this website, I highlight specific experiences which I have found engaging and which lead to a flow state and other experiences which have not so that the reader can have a sense of my flow state.
+Within this website, I endeavor to showcase specific experiences that have been truly engaging and have facilitated a flow state for me, as well as those that have not. This way, readers can gain a better understanding of what drives my professional satisfaction.
+
 
