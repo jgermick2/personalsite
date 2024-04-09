@@ -6,11 +6,16 @@ title: About Me
 # About Me
 
 Hi, 
-Thanks for taking the time to learn about me. I created this site because I have more to say about my carear interests, passions and goals than a single page resume can provide.
 
-I believe that portal is a more efficient and useful method of describing what drives me that the conventional "cover letter".
+Thanks for taking the time to learn about me. I created this site because I have more to say about my career interests, passions and goals than a single page resume can provide.
 
-The general message I want to convey is that I am truely driven by being given an oppertunity to challenge myself and dive into an unfamiliar field. My dream job is something like a "generalist IT guy" who is able to research an implement modern technological solutions to create efficiency gains within an organization. I believe that most, if not all businesses have numerous opportunities for "automation" to save countless man hours. Such businesses do not implement these solutions because they are simply unaware of the cost/benefit or even existance of such solutions. Here are some canonnical basic problems I beleive many companies have but don't even know they exists or that relatively simple solutions exist.
-- Document management and digitization
-- Automated control of equipment and machinery 
-- realtime monitoring and recording of system state (camera's and image processing)
+I believe a personal website is a more efficient and useful method of describing what drives me than the conventional "cover letter".
+
+By exploring the pages on this site I hope to give more extensive context or my goals and motivations. Personally, I am driven to find roles which feature the following attributes “present continuous opportunities for growth” and maximize [“the flow state”](https://en.wikipedia.org/wiki/Flow_(psychology)). These two attributes are highly interdependent.
+
+The first attribute is of course extremely broad, and one might argue that someone should be able to find such opportunities in any career. I vehemently disagree. In fact, the very structure of a typical “office” job is designed to bring employees “up to speed”. Once employees are equipped with the proper tools to perform their specialized role, allocating time to explore and learn is discouraged in favor of maximal productivity in the present. 
+
+A role that strictly adheres to the above practice would not be one which encourages true opportunities for growth.
+
+The second attribute is highly personalized. In this website, I highlight specific experiences which I have found engaging and which lead to a flow state and other experiences which have not so that the reader can have a sense of my flow state.
+
